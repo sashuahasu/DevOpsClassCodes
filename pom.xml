@@ -7,6 +7,8 @@
     <packaging>war</packaging>
     <version>2.0</version>
     <name>Vaadin Addressbook example</name>
+	<!-- comment the line -->
+	
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
