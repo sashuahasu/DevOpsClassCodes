@@ -26,6 +26,7 @@
 		       classpathref="maven-ant-tasks.classpath" />
 		<path id="ant.contrib.classpath" path="${ant.home}/lib/ant-contrib.jar"/>
 		<typedef resource="net/sf/antcontrib/antlib.xml" classpathref="ant.contrib.classpath"/>
+	<!-- Commented to check the poll SCM -- >
 
 
   <!-- ====================================================================== -->
